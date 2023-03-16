@@ -1,0 +1,10 @@
+[
+  {
+    "package": "ExpGenetic",
+    "oncran": true
+  },
+  {
+    "package": "sRNAGenetic",
+    "oncran": true
+  }
+]
