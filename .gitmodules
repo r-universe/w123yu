@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ExpGenetic"]
 	path = ExpGenetic
 	url = https://github.com/w123yu/expgenetic
-	shallow = true
-	registered = true
 [submodule "sRNAGenetic"]
 	path = sRNAGenetic
 	url = https://github.com/w123yu/srnagenetic
-	shallow = true
-	registered = true
